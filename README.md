@@ -1,2 +1,2 @@
 # Tetris2048
-JAVA
+Tetris 2048 game written in JAVA language.
